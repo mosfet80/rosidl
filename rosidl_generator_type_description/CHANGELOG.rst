@@ -2,6 +2,9 @@
 Changelog for package rosidl_generator_type_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 4.9.2 (2024-11-25)
 ------------------
 
